@@ -1,0 +1,10 @@
+## Apps
+ - [7-Zip](https://www.7-zip.org/download.html)
+ - [WinRAR](https://www.win-rar.com/download.html?&L=0)
+ - [Chrome](https://chromeenterprise.google/browser/download)
+ - [VLC Media Player](https://www.videolan.org/vlc/download-windows.html)
+ - [Sublime Text](https://www.sublimetext.com/download)
+ - [Free Download Manager](https://www.freedownloadmanager.org/download.htm)
+ - []()
+ - []()
+ - []()
