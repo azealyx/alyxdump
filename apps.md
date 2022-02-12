@@ -1,6 +1,7 @@
 
 ### Internet
  - [Chrome](https://chromeenterprise.google/browser/download)
+ - [Firefox](https://www.mozilla.org/en-US/firefox/all)
  - [Free Download Manager](https://www.freedownloadmanager.org/download.htm)
  - [qBittorrent](https://www.qbittorrent.org/download.php)
 
