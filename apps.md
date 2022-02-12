@@ -44,8 +44,3 @@
  - [PowerToys](https://github.com/microsoft/PowerToys/releases)
  - [Advanced Renamer](https://www.advancedrenamer.com/download)
  - [Rufus](https://rufus.ie/en/)
-
-
- - []()
- - []()
- - []()
