@@ -6,7 +6,10 @@
  - [qBittorrent](https://www.qbittorrent.org/download.php)
 
 ### Media
+ - [7-Zip](https://www.7-zip.org/download.html)
+ - [WinRAR](https://www.rarlab.com/download.htm)
  - [VLC Media Player](https://www.videolan.org/vlc/download-windows.html)
+ - [Sublime Text](https://www.sublimetext.com/download)
  - [OBS Studio](https://obsproject.com/download)
  - [ShareX](https://getsharex.com/downloads)
  - [GIMP](https://www.gimp.org/downloads)
@@ -18,11 +21,6 @@
  - [Epic Games Store](https://www.epicgames.com/store/en-US/download)
  - [Origin](https://www.origin.com/usa/en-us/store/download)
  - [Steam](https://store.steampowered.com/about)
-
-### Utilities
- - [7-Zip](https://www.7-zip.org/download.html)
- - [Sublime Text](https://www.sublimetext.com/download)
- - [WinRAR](https://www.rarlab.com/download.htm)
 
 ### Information
  - [HWiNFO](https://www.hwinfo.com/download)
