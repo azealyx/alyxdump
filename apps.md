@@ -30,6 +30,7 @@
  - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
  - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
  - [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z)
+ - [CrystalDiskInfo](https://crystalmark.info/en/download/#CrystalDiskInfo)
  - [WizTree](https://www.diskanalyzer.com/download)
 
 ### Advanced Tools
