@@ -9,7 +9,7 @@
  - [VLC Media Player](https://www.videolan.org/vlc/download-windows.html)
  - [OBS Studio](https://obsproject.com/download)
  - [GIMP](https://www.gimp.org/downloads)
- - [Paint.NET](https://www.dotpdn.com/downloads/pdn.html)
+ - [Paint.NET](https://github.com/paintdotnet/release/releases)
  - [Inkscape](https://inkscape.org/en/release)
  - [Blender](https://www.blender.org/download)
 
