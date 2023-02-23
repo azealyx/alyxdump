@@ -3,6 +3,7 @@
  - [Chrome](https://chromeenterprise.google/browser/download)
  - [Firefox](https://www.mozilla.org/en-US/firefox/all)
  - [Free Download Manager](https://www.freedownloadmanager.org/download.htm)
+ - [Opera GX](https://www.opera.com/download#opera-gx
  - [qBittorrent](https://www.qbittorrent.org/download.php)
 
 ### Media
@@ -14,8 +15,8 @@
  - [Blender](https://www.blender.org/download)
 
 ### Game Stores
- - [Epic Games Store](https://www.epicgames.com/store/en-US/download)
- - [Origin](https://www.origin.com/usa/en-us/store/download)
+ - [Epic Games](https://www.epicgames.com/store/en-US/download)
+ - [EA](https://www.ea.com/ea-app)
  - [Steam](https://store.steampowered.com/about)
 
 ### Utilities
