@@ -15,8 +15,8 @@
  - [Blender](https://www.blender.org/download)
 
 ### Game Stores
- - [Epic Games](https://www.epicgames.com/store/en-US/download)
- - [EA](https://www.ea.com/ea-app)
+ - [Epic Games Launcher](https://www.epicgames.com/store/en-US/download)
+ - [EA app](https://www.ea.com/ea-app)
  - [Steam](https://store.steampowered.com/about)
 
 ### Utilities
