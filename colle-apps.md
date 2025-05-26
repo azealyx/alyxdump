@@ -37,10 +37,10 @@
  - [Rufus](https://rufus.ie/en)
 
 ### Microsoft Store Apps
- - [Netflix](https://www.microsoft.com/store/productId/9WZDNCRFJ3TJ)
- - [Spotify](https://www.microsoft.com/store/productId/9NCBCSZSJRSB)
- - [Discord](https://www.microsoft.com/store/productId/XPDC2RH70K22MN)
- - [Messenger](https://www.microsoft.com/store/productId/9WZDNCRF0083)
- - [Telegram](https://www.microsoft.com/store/productId/9NZTWSQNTD0S)
- - [Zoom](https://www.microsoft.com/store/productId/XP99J3KP4XZ4VV)
- - [Monitorian](https://www.microsoft.com/store/productId/9NW33J738BL0)
+ - [Netflix](ms-windows-store://pdp/?ProductId=9WZDNCRFJ3TJ)
+ - [Spotify](ms-windows-store://pdp/?ProductId=9NCBCSZSJRSB)
+ - [Discord](ms-windows-store://pdp/?ProductId=XPDC2RH70K22MN)
+ - [Messenger](ms-windows-store://pdp/?ProductId=9WZDNCRF0083)
+ - [Telegram](ms-windows-store://pdp/?ProductId=9NZTWSQNTD0S)
+ - [Zoom](ms-windows-store://pdp/?ProductId=XP99J3KP4XZ4VV)
+ - [Monitorian](ms-windows-store://pdp/?ProductId=9NW33J738BL0)
