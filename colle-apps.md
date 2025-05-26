@@ -1,4 +1,9 @@
 
+### Game Stores
+ - [EA app](https://www.ea.com/ea-app)
+ - [Epic Games Launcher](https://www.epicgames.com/store/en-US/download)
+ - [Steam](https://store.steampowered.com/about)
+
 ### Internet
  - [Chrome](https://chromeenterprise.google/browser/download)
  - [Firefox](https://www.mozilla.org/en-US/firefox/all)
@@ -7,23 +12,15 @@
  - [qBittorrent](https://www.qbittorrent.org/download.php)
 
 ### Media
- - [VLC Media Player](https://www.videolan.org/vlc/download-windows.html)
- - [OBS Studio](https://obsproject.com/download)
  - [GIMP](https://www.gimp.org/downloads)
- - [Paint.NET](https://github.com/paintdotnet/release/releases)
- - [Inkscape](https://inkscape.org/en/release)
- - [Blender](https://www.blender.org/download)
-
-### Game Stores
- - [Epic Games Launcher](https://www.epicgames.com/store/en-US/download)
- - [EA app](https://www.ea.com/ea-app)
- - [Steam](https://store.steampowered.com/about)
+ - [Krita](https://krita.org/en/download/)
+ - [OBS Studio](https://obsproject.com/download)
+ - [VLC Media Player](https://www.videolan.org/vlc/download-windows.html)
 
 ### Utilities
  - [7-Zip](https://www.7-zip.org/download.html)
- - [WinRAR](https://www.rarlab.com/download.htm)
  - [Sublime Text](https://www.sublimetext.com/download)
- - [ShareX](https://getsharex.com/downloads)
+ - [WinRAR](https://www.rarlab.com/download.htm)
 
 ### Information
  - [HWiNFO](https://www.hwinfo.com/download)
@@ -38,7 +35,6 @@
  - [Advanced Renamer](https://www.advancedrenamer.com/download)
  - [PowerToys](https://github.com/microsoft/PowerToys/releases)
  - [Rufus](https://rufus.ie/en)
-
 
 ### Microsoft Store Apps
  - [Netflix](https://www.microsoft.com/store/productId/9WZDNCRFJ3TJ)
