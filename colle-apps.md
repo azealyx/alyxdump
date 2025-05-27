@@ -1,20 +1,20 @@
 
 ### Game Stores
- - [EA app](https://www.ea.com/ea-app)
- - [Epic Games Launcher](https://www.epicgames.com/store/en-US/download)
- - [Steam](https://store.steampowered.com/about)
+ - [EA app](https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller.exe) [\(src\)](https://www.ea.com/ea-app)
+ - [Epic Games Launcher](https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi) [\(src\)](https://www.epicgames.com/store/en-US/download)
+ - [Steam](https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe) [\(src\)](https://store.steampowered.com/about)
 
 ### Internet
- - [Chrome](https://chromeenterprise.google/browser/download)
- - [Firefox](https://www.mozilla.org/en-US/firefox/all)
- - [Free Download Manager](https://www.freedownloadmanager.org/download.htm)
- - [Opera GX](https://www.opera.com/download#opera-gx)
- - [qBittorrent](https://www.qbittorrent.org/download.php)
+ - [Chrome](https://chromeenterprise.google/download/thank-you/?platform=WIN64_MSI&channel=stable&usagestats=0) [\(src\)](https://chromeenterprise.google/browser/download)
+ - [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US) [\(src\)](https://www.mozilla.org/en-US/firefox/all)
+ - [Free Download Manager](https://files2.freedownloadmanager.org/6/latest/fdm_x64_setup.exe) [\(src\)](https://www.freedownloadmanager.org/download.htm)
+ - [Opera GX](https://download.opera.com/download/get/?partner=www&opsys=MacOS&product=Opera+GX) [\(src\)](https://www.opera.com/download#opera-gx)
+ - [qBittorrent](https://www.fosshub.com/qBittorrent.html) [\(src\)](https://www.qbittorrent.org/download.php)
 
 ### Media
  - [GIMP](https://www.gimp.org/downloads)
  - [Krita](https://krita.org/en/download/)
- - [OBS Studio](https://obsproject.com/download)
+ - [OBS Studio](https://github.com/obsproject/obs-studio/releases/tag/30.2.3) [\(check for anticheat support\)](https://obsproject.com/kb/capture-hook-certificate-update)
  - [VLC Media Player](https://www.videolan.org/vlc/download-windows.html)
 
 ### Utilities
